@@ -57,7 +57,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangla", SATV
-http://stream.imotv.net/stream/XZYptMhIZ07hmpLH2OqihQ/1701205125/satv/index.m3u8
+https://live.bongobd.com/hls/0HWoZqInlzoYw1ljeCGHkg/1701205239/sky-sa-tv_low/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangla", SomoyTV
 http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
