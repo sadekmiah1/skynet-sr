@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla", T-Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-Sports
 http://wcdn.bdixsports.live:1935/live/event360.stream/media_w1770866901_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNzAxMjE0OTgwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNzAxMTk2OTgwJmJkaXhzcG9ydHN0b2tlbmhhc2g9MnE4OU95RGg2aHM1eFlDSjAzZVNPZlE4eUVfUDRSMi1vUHVWWUZ5eHBWOD0=_1830.ts
 
 #EXTM3U
@@ -11,7 +11,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="Bangla", Sports18
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="Sports", Sports18
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/index.m3u8
 
 #EXTM3U
@@ -23,27 +23,27 @@ http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Bangla", SonySix
-http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports", SonySix
+http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Bangla", SonyTen1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports", SonyTen1
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Bangla", SonyTen2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports", SonyTen2
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Bangla", SonyTen3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports", SonyTen3
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="Bangla", StarSports1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="Sports", StarSports1
 http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/7/7f/%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.gif" group-title="Bangla", PTV Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/7/7f/%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.gif" group-title="Sports", PTV Sports
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
 
 #EXTM3U
@@ -59,7 +59,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/DBC/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/RTV/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" group-title="Bangla", Channel-I
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" group-title="Bangla", Channel I
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
 
 #EXTM3U
@@ -75,7 +75,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangla", SA_TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangla", SATV
 http://stream.imotv.net/stream/XZYptMhIZ07hmpLH2OqihQ/1701205125/satv/index.m3u8
 
 #EXTM3U
@@ -83,7 +83,7 @@ http://stream.imotv.net/stream/XZYptMhIZ07hmpLH2OqihQ/1701205125/satv/index.m3u8
 http://stream.imotv.net/stream/5UEFsnv5VbK7FLnLqjJbDA/1701205245/somoytv/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Channel9_bd.svg" group-title="Bangla", Channel_9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Channel9_bd.svg" group-title="Bangla", Channel 9
 https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_9/playlist.m3u8
 
 #EXTM3U
