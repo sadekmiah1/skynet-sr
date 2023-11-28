@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-Sports
-http://wcdn.bdixsports.live:1935/live/event360.stream/media_w1770866901_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNzAxMjE0OTgwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNzAxMTk2OTgwJmJkaXhzcG9ydHN0b2tlbmhhc2g9MnE4OU95RGg2aHM1eFlDSjAzZVNPZlE4eUVfUDRSMi1vUHVWWUZ5eHBWOD0=_1830.ts
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg" group-title="Bangla", NTV
@@ -80,7 +80,7 @@ http://stream.imotv.net/stream/XZYptMhIZ07hmpLH2OqihQ/1701205125/satv/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangla", SomoyTV
-http://stream.imotv.net/stream/5UEFsnv5VbK7FLnLqjJbDA/1701205245/somoytv/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Channel9_bd.svg" group-title="Bangla", Channel 9
