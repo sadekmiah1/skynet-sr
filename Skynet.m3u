@@ -322,3 +322,6 @@ https://edge4.bioscopelive.com/hls/anonymous/LNgb_uCOTnpJwPEWo9JHVw/1701242778/l
 #EXTINF:-1 tvg-logo="Sony aath" group-title="Bangla", Sony aath
 https://edge4.bioscopelive.com/hls/anonymous/xzwh7xouS0OMtPnib2GnyA/1701242820/live-sony-aath-sd.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangla", SomoyTV
+https://live.bongobd.com/hls/WC072XDd8MYVKqHJvlqALA/1701257443/shomoy_tv.m3u8
