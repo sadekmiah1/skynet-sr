@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-Sports
-http://stream.imotv.net/stream/0NrANuAkMSxdRWNuoVII_g/1701455627/redbulltv/index.m3u
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg" group-title="Bangla", NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
@@ -75,7 +75,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Massranga/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="Bangla", BTV
-https://edge4.bioscopelive.com/hls/anonymous/hOjsI2fM9Xth_oWzDQ4ghw/1701450770/live-btv-hd.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/BTV/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/62/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Bangla", BanglaTV
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/index.m3u8
@@ -111,7 +111,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/AnandaTV/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/DeshTV/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" group-title="Bangla", mytv
-https://edge4.bioscopelive.com/hls/anonymous/Jcxl9pJENDT9Yg2k8ZWmzw/1701450912/live-my-tv-hd.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/mytv/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Mohona_tv_Logo.svg" group-title="Bangla", Mohona
 http://tv.dugdugilive.com:8080/0ne$ky23/Mohona/index.m3u8
@@ -120,7 +120,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Mohona/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/ATNIslamic/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/85/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Bangla", jalshamovies
-http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/index.m3u8
+http://tv.skynet.com.bd/hls/jalshamovies.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" group-title="Bangla", colors-bangla
 http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/index.m3u8
@@ -231,16 +231,13 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Cartoon/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/bbc/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="aljajira" group-title="English", aljajira
-https://edge4.bioscopelive.com/hls/anonymous/BLZSx5zuP3YcESaXK7LyyQ/1701450543/live-aljazeera-tv_hi/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="Knews" group-title="Hindi", Knews
-https://static.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/knews.stream/playlist.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo=" " group-title="Sports", sony sports ten1 hd
-https://edge4.bioscopelive.com/hls/anonymous/LNgb_uCOTnpJwPEWo9JHVw/1701242778/live-sony-sports-ten-1-hd.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/aljajira/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="Sony aath" group-title="Bangla", Sony aath
-https://edge4.bioscopelive.com/hls/anonymous/xzwh7xouS0OMtPnib2GnyA/1701242820/live-sony-aath-sd.m3u8
+http://tv.skynet.com.bd/hls/Sony_Aath.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangla", SomoyTV
-https://edge4.bioscopelive.com/hls/anonymous/8-W7esDMV73fTihLI4omLw/1701441537/live-somoy-news-tv_hi/index.m3u8
+http://tv.skynet.com.bd/hls/somoy.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", GTV
+http://tv.skynet.com.bd/hls/Gazi-TV.m3u8
