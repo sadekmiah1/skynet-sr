@@ -1,226 +1,152 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-Sports
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg" group-title="Bangla", NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", GTV
-http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
-
+http://tv.skynet.com.bd/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="Sports", Sports18
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-
+http://tv.skynet.com.bd/hls/18.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Bangla", Star_Jalsha
-http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8
-
+http://tv.skynet.com.bd/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Zee_Bangla_logo.png" group-title="Bangla", Zee_Bangla
-https://live.bongobd.com/hls/7SNyQh-4sQ8y87LSn1llAg/1701529856/zee_bangla.m3u8
-
+http://tv.skynet.com.bd/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports", SonySix
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports", SonyTen1
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/index.m3u8
-
+http://tv.skynet.com.bd/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports", SonyTen2
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/index.m3u8
-
+http://tv.skynet.com.bd/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports", SonyTen3
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="Sports", StarSports1
 http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/7/7f/%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.gif" group-title="Sports", PTV Sports
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Independent_Television_Logo.svg" group-title="Bangla", Independent
 http://tv.dugdugilive.com:8080/0ne$ky23/Independent/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/DBC_News_Logo.svg" group-title="Bangla", DBC
 http://tv.dugdugilive.com:8080/0ne$ky23/DBC/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Rtv_bangladesh.svg" group-title="Bangla", RTV
 http://tv.dugdugilive.com:8080/0ne$ky23/RTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" group-title="Bangla", Channel I
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Banglavision.svg" group-title="Bangla", BanglaVision
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangla", ATN-News
 http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Ekattor_TV_logo.svg" group-title="Bangla", Ekattor
 http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangla", SATV
 http://tv.dugdugilive.com:8080/0ne$ky23/satv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangla", SomoyTV
-http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
-
+http://tv.skynet.com.bd/hls/somoy.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Channel9_bd.svg" group-title="Bangla", Channel 9
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel9/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto
 http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla", Massranga
-http://tv.dugdugilive.com:8080/0ne$ky23/Massranga/index.m3u8
-
+http://tv.skynet.com.bd/hls/masranga.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" group-title="Bangla", Nagorik
 http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="Bangla", BTV
-http://tv.dugdugilive.com:8080/0ne$ky23/BTV/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg" group-title="Bangla", enterr10
+http://tv.skynet.com.bd/hls/enterr10.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/62/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Bangla", BanglaTV
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Bangla", JamunaTV
 http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Channel24logo.svg" group-title="Bangla", Channel24
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla", News24
 http://tv.dugdugilive.com:8080/0ne$ky23/News24/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATN_Bangla.svg" group-title="Bangla", AtnBangla
 http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Boishakhi_TV_logo.svg" group-title="Bangla", Boishakhi
 http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg" group-title="Bangla", EkusheyTV
 http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Gaan_Bangla_Logo.png" group-title="Bangla", GaanBangla
 http://tv.dugdugilive.com:8080/0ne$ky23/GaanBangla/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Asian_TV_Logo.svg" group-title="Bangla", Asian
 http://tv.dugdugilive.com:8080/0ne$ky23/Asian/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" group-title="Bangla", AnandaTV
 http://tv.dugdugilive.com:8080/0ne$ky23/AnandaTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" group-title="Bangla", DeshTV
 http://tv.dugdugilive.com:8080/0ne$ky23/DeshTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png" group-title="Bangla", mytv
 http://tv.dugdugilive.com:8080/0ne$ky23/mytv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Mohona_tv_Logo.svg" group-title="Bangla", Mohona
-http://tv.dugdugilive.com:8080/0ne$ky23/Mohona/index.m3u8
-
+https://statics.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Bangla", ATNIslamic
 http://tv.dugdugilive.com:8080/0ne$ky23/ATNIslamic/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/85/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Bangla", jalshamovies
 http://tv.skynet.com.bd/hls/jalshamovies.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" group-title="Bangla", colors-bangla
-http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/index.m3u8
-
+http://tv.skynet.com.bd/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/65/%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80%E0%A6%A4_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Bangla", sangeetbangla
 http://tv.dugdugilive.com:8080/0ne$ky23/sangeetbangla/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi", ZeeBnCinema
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBnCinema/index.m3u8
-
-#EXTINF:-1 tvg-logo="Dhoom" group-title="Hindi", Dhoom
+#EXTINF:-1 tvg-logo="Dhoom" group-title="Hindi", Sony aat
 http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/index.m3u8
-
 #EXTINF:-1 tvg-logo="DilSe" group-title="Hindi", DilSe
 http://tv.dugdugilive.com:8080/0ne$ky23/DilSe/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Eastman_Kodak_Company_logo_%282016%29.svg" group-title="Hindi", Kodak
 http://tv.dugdugilive.com:8080/0ne$ky23/Kadak/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/B4UEnt.jpg" group-title="Hindi", B4U
 http://tv.dugdugilive.com:8080/0ne$ky23/B4U/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Zoom%28TVchannel%29Logo.jpg" group-title="Hindi", Zoom
 http://tv.dugdugilive.com:8080/0ne$ky23/Zoom/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/ZeeETCBollywoodLogo.png" group-title="Hindi", ZeeEtc
 http://tv.dugdugilive.com:8080/0ne$ky23/ZetcE24/index.m3u8
-
 #EXTINF:-1 tvg-logo="MTVin" group-title="Hindi", MTVin
 http://tv.dugdugilive.com:8080/0ne$ky23/MTVin/index.m3u8
-
 #EXTINF:-1 tvg-logo="9xM" group-title="Hindi", 9xM
 http://tv.dugdugilive.com:8080/0ne$ky23/9xM/index.m3u8
-
 #EXTINF:-1 tvg-logo="ZeeCinem" group-title="Hindi", ZeeCinem
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/index.m3u8
-
 #EXTINF:-1 tvg-logo="AndPictures" group-title="Hindi", AndPictures
 http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/index.m3u8
-
 #EXTINF:-1 tvg-logo="StarPlus" group-title="Hindi", StarPlus
 http://tv.dugdugilive.com:8080/0ne$ky23/StarPlus/index.m3u8
-
 #EXTINF:-1 tvg-logo="Colors" group-title="Hindi", Colors
 http://tv.dugdugilive.com:8080/0ne$ky23/Colors/index.m3u8
-
 #EXTINF:-1 tvg-logo="SonyTV" group-title="Hindi", SonyTV
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="ZeeTV" group-title="Hindi", ZeeTV
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="StarBharat" group-title="Hindi", StarBharat
 http://tv.dugdugilive.com:8080/0ne$ky23/StarBharat/index.m3u8
-
 #EXTINF:-1 tvg-logo="MTVin" group-title="Hindi", MTVin
 http://tv.dugdugilive.com:8080/0ne$ky23/MTVin/index.m3u8
-
 #EXTINF:-1 tvg-logo="AndTV" group-title="Bangla", AndTV
 http://tv.dugdugilive.com:8080/0ne$ky23/AndTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="ZBolloyWoord" group-title="Hindi", ZBolloyWoord
 http://tv.dugdugilive.com:8080/0ne$ky23/ZBolloyWoord/index.m3u8
-
 #EXTINF:-1 tvg-logo="SonyMax" group-title="Hindi", SonyMax
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/index.m3u8
-
 #EXTINF:-1 tvg-logo="StarGold" group-title="Hindi", StarGold
 http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/index.m3u8
-
 #EXTINF:-1 tvg-logo="CinePlex" group-title="Hindi", CinePlex
 http://tv.dugdugilive.com:8080/0ne$ky23/CinePlex/index.m3u8
-
 #EXTINF:-1 tvg-logo="B4Umovies" group-title="Hindi", B4Umovies
 http://tv.dugdugilive.com:8080/0ne$ky23/B4Umovies/index.m3u8
-
 #EXTINF:-1 tvg-logo="bFlix" group-title="Hindi", bFlix
 http://tv.dugdugilive.com:8080/0ne$ky23/bFlix/index.m3u8
-
 #EXTINF:-1 tvg-logo="9xjalwa" group-title="Hindi", 9xjalwa
 http://tv.dugdugilive.com:8080/0ne$ky23/9xjalwa/index.m3u8
-
 #EXTINF:-1 tvg-logo="SonyPix" group-title="Hindi", SonyPix
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyPix/index.m3u8
-
 #EXTINF:-1 tvg-logo="NickBN" group-title="Hindi", NickBN
 http://tv.dugdugilive.com:8080/0ne$ky23/NickBN/index.m3u8
-
 #EXTINF:-1 tvg-logo="Discovery" group-title="Bangla", Discovery
 http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/index.m3u8
-
 #EXTINF:-1 tvg-logo="StarMovies" group-title="Hindi", StarMovies
 http://tv.dugdugilive.com:8080/0ne$ky23/StarMovies/index.m3u8
-
 #EXTINF:-1 tvg-logo="AndFlix" group-title="Hindi", AndFlix
 http://tv.dugdugilive.com:8080/0ne$ky23/AndFlix/index.m3u8
-
 #EXTINF:-1 tvg-logo="AndPrive" group-title="Hindi", AndPrive
 http://tv.dugdugilive.com:8080/0ne$ky23/AndPrive/index.m3u8
-
 #EXTINF:-1 tvg-logo="HBO" group-title="English", HBO
 http://tv.dugdugilive.com:8080/0ne$ky23/HBO/index.m3u8
 
