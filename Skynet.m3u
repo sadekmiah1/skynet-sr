@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T-Sports
-http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
+http://10.192.0.3:8082/T-SPORTS/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg" group-title="Bangla", NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
@@ -240,4 +240,4 @@ http://tv.skynet.com.bd/hls/Sony_Aath.m3u8
 https://edge4.bioscopelive.com/hls/anonymous/DUXxCBMQgCLGx3praylCFg/1701514559/live-somoy-news-tv_hi/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", GTV
-http://tv.skynet.com.bd/hls/Gazi-TV.m3u8
+http://10.192.0.3:8082/GTV/index.m3u8
