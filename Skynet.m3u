@@ -149,12 +149,13 @@ http://tv.dugdugilive.com:8080/0ne$ky23/AndFlix/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/AndPrive/index.m3u8
 #EXTINF:-1 tvg-logo="HBO" group-title="English", HBO
 http://tv.dugdugilive.com:8080/0ne$ky23/HBO/index.m3u8
-
-#EXTINF:-1 tvg-logo="Cartoon" group-title="English", Cartoon
-http://tv.dugdugilive.com:8080/0ne$ky23/Cartoon/index.m3u8
-
-#EXTINF:-1 tvg-logo="bbc" group-title="English", bbc
-http://tv.dugdugilive.com:8080/0ne$ky23/bbc/index.m3u8
-
+#EXTINF:-1 tvg-logo="Cartoon" group-title="English", Nick
+http://tv.skynet.com.bd/hls/nick.m3u8
+#EXTINF:-1 tvg-logo="bbc" group-title="English", bbcworld
+http://tv.skynet.com.bd/hls/bbcworld.m3u8
 #EXTINF:-1 tvg-logo="aljajira" group-title="English", aljajira
-http://tv.dugdugilive.com:8080/0ne$ky23/aljajira/index.m3u8
+http://tv.skynet.com.bd/hls/aljazeera.m3u8
+#EXTINF:-1 group-title="Islamic", Madani
+http://tv.skynet.com.bd/hls/madani.m3u8
+#EXTINF:-1 group-title="Islamic", Qurqntv
+http://tv.skynet.com.bd/hls/qurqntv.m3u8
