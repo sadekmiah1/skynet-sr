@@ -74,7 +74,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/AnandaTV/index.m3u8
 #EXTINF:-1 group-title="IPTV1", DeshTV
 http://tv.dugdugilive.com:8080/0ne$ky23/DeshTV/index.m3u8
 #EXTINF:-1 group-title="IPTV1", mytv
-http://appcdn.jagobd.com:1934/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/playlist.m3u8
+http://appcdn.jagobd.com:1934/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 group-title="IPTV1", Mohona
 http://appcdn.jagobd.com:1934/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 group-title="IPTV1", ATNIslamic
