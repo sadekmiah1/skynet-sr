@@ -1,46 +1,67 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sports", T-Sports
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
+
 #EXTINF:-1 group-title="Bangla", NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", GTV
+
+#EXTINF:-1 group-title="Bangla", GTV
 http://tv.skynet.com.bd/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="Sports", Sports18
+
+#EXTINF:-1 group-title="Sports", Sports18
 http://tv.skynet.com.bd/hls/18.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Bangla", Star_Jalsha
+
+#EXTINF:-1 group-title="Bangla", Star_Jalsha
 http://tv.skynet.com.bd/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Zee_Bangla_logo.png" group-title="Bangla", Zee_Bangla
+
+#EXTINF:-1 group-title="Bangla", Zee_Bangla
 http://tv.skynet.com.bd/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports", SonySix
+
+#EXTINF:-1 group-title="Sports", SonySix
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports", SonyTen1
+
+#EXTINF:-1 group-title="Sports", SonyTen1
 http://tv.skynet.com.bd/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports", SonyTen2
+
+#EXTINF:-1 group-title="Sports", SonyTen2
 http://tv.skynet.com.bd/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_Sports_Network.png" group-title="Sports", SonyTen3
+
+#EXTINF:-1 group-title="Sports", SonyTen3
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="Sports", StarSports1
+
+#EXTINF:-1 group-title="Sports", StarSports1
 http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/7/7f/%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.gif" group-title="Sports", PTV Sports
+
+#EXTINF:-1 group-title="Sports", PTV Sports
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Independent_Television_Logo.svg" group-title="Bangla", Independent
+
+#EXTINF:-1 group-title="Bangla", Independent
 http://tv.dugdugilive.com:8080/0ne$ky23/Independent/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/DBC_News_Logo.svg" group-title="Bangla", DBC
+
+#EXTINF:-1 group-title="Bangla", DBC
 http://tv.dugdugilive.com:8080/0ne$ky23/DBC/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Rtv_bangladesh.svg" group-title="Bangla", RTV
+
+#EXTINF:-1 group-title="Bangla", RTV
 http://tv.dugdugilive.com:8080/0ne$ky23/RTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" group-title="Bangla", Channel I
+
+#EXTINF:-1 group-title="Bangla", Channel I
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Banglavision.svg" group-title="Bangla", BanglaVision
+
+#EXTINF:-1 group-title="Bangla", BanglaVision
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangla", ATN-News
+
+#EXTINF:-1 group-title="Bangla", ATN-News
 http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Ekattor_TV_logo.svg" group-title="Bangla", Ekattor
+
+#EXTINF:-1 group-title="Bangla", Ekattor
 http://tv.skynet.com.bd/hls/71.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangla", SATV
+
+#EXTINF:-1 group-title="Bangla", SATV
 http://tv.dugdugilive.com:8080/0ne$ky23/satv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangla", SomoyTV
+
+#EXTINF:-1 group-title="Bangla", SomoyTV
 http://tv.skynet.com.bd/hls/somoy.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Channel9_bd.svg" group-title="Bangla", Channel 9
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto
