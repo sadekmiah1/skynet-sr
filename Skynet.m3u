@@ -60,7 +60,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/index.m3u8
 #EXTINF:-1 group-title="IPTV1", News24
 http://tv.dugdugilive.com:8080/0ne$ky23/News24/index.m3u8
 #EXTINF:-1 group-title="IPTV1", AtnBangla
-http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/index.m3u8
+http://appcdn.jagobd.com:1934/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="IPTV1", Boishakhi
 http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/index.m3u8
 #EXTINF:-1 group-title="IPTV1", EkusheyTV
