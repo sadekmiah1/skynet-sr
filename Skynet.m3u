@@ -18,7 +18,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
 #EXTINF:-1 group-title="IPTV1", Star_Jalsha
 http://tv.skynet.com.bd/hls/starjalsha.m3u8
 #EXTINF:-1 group-title="IPTV1", Zee_Bangla
-http://tv.skynet.com.bd/hls/zeebanglahd.m3u8
+http://live.bongobd.com/hls/ni_KH2Igq0NTEtRorTniNA/1701802484/zee_bangla_hi/index.m3u8
 #EXTINF:-1 group-title="IPTV1", NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
 #EXTINF:-1 group-title="IPTV1", GTV
@@ -34,7 +34,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
 #EXTINF:-1 group-title="IPTV1", BanglaVision
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/index.m3u8
 #EXTINF:-1 group-title="IPTV1", ATN-News
-http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/index.m3u8
+http://live.bongobd.com/hls/PpAlZyrXeaCZtipLsbejAg/1701802564/sky-atn-news.m3u8
 #EXTINF:-1 group-title="IPTV1", Ekattor
 http://tv.skynet.com.bd/hls/71.m3u8
 #EXTINF:-1 group-title="IPTV1", SATV
