@@ -40,7 +40,7 @@ http://tv.skynet.com.bd/hls/71.m3u8
 #EXTINF:-1 group-title="IPTV1", SATV
 http://tv.dugdugilive.com:8080/0ne$ky23/satv/index.m3u8
 #EXTINF:-1 group-title="IPTV1", SomoyTV
-http://tv.skynet.com.bd/hls/somoy.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
 #EXTINF:-1 group-title="IPTV1", Channel 9
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel9/index.m3u8
 #EXTINF:-1 group-title="IPTV1", Deepto
