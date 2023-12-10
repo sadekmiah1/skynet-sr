@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="IPTV1", T-Sports
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
 #EXTINF:-1 group-title="IPTV1", Sports18
@@ -18,7 +19,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
 #EXTINF:-1 group-title="IPTV1", Star_Jalsha
 http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8
 #EXTINF:-1 group-title="IPTV1", Zee_Bangla HD
-http://tv.skynet.com.bd/hls/zeebanglahd.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/index.m3u8
 #EXTINF:-1 group-title="IPTV1", NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
 #EXTINF:-1 group-title="IPTV1", GTV
