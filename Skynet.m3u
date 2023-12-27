@@ -1,160 +1,156 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="IPTV1", T-Sports
-http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
-#EXTINF:-1 group-title="IPTV1", Sports18
-http://tv.skynet.com.bd/hls/18.m3u8
-#EXTINF:-1 group-title="IPTV1", SonySix
-http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="IPTV1", SonyTen1
-http://tv.skynet.com.bd/hls/sonyten1.m3u8
-#EXTINF:-1 group-title="IPTV1", SonyTen2
-http://tv.skynet.com.bd/hls/sonyten2.m3u8
-#EXTINF:-1 group-title="IPTV1", SonyTen3
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/index.m3u8
-#EXTINF:-1 group-title="IPTV1", StarSports1
-http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/index.m3u8
-#EXTINF:-1 group-title="IPTV1", PTV Sports
-http://tv.dugdugilive.com:8080/0ne$ky23/PTV/index.m3u8
-#EXTINF:-1 group-title="IPTV1", Star_Jalsha
-http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8
-#EXTINF:-1 group-title="IPTV1", Zee_Bangla HD
-http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/index.m3u8
-#EXTINF:-1 group-title="IPTV1", NTV
-http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
-#EXTINF:-1 group-title="IPTV1", GTV
-http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
-#EXTINF:-1 group-title="IPTV1", Independent
-http://tv.dugdugilive.com:8080/0ne$ky23/Independent/index.m3u8
-#EXTINF:-1 group-title="IPTV1", DBC
-http://tv.dugdugilive.com:8080/0ne$ky23/DBC/index.m3u8
-#EXTINF:-1 group-title="IPTV1", RTV
-http://tv.dugdugilive.com:8080/0ne$ky23/RTV/index.m3u8
-#EXTINF:-1 group-title="IPTV1", Channel I
-http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/index.m3u8
-#EXTINF:-1 group-title="IPTV1", BanglaVision
-http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/index.m3u8
-#EXTINF:-1 group-title="IPTV1", ATN-News
-http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/index.m3u8
-#EXTINF:-1 group-title="IPTV1", Ekattor
-http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/index.m3u8
-#EXTINF:-1 group-title="IPTV1", SATV
-http://tv.dugdugilive.com:8080/0ne$ky23/satv/index.m3u8
-#EXTINF:-1 group-title="IPTV1", SomoyTV
-http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/index.m3u8
-#EXTINF:-1 group-title="IPTV1", Channel 9
-http://tv.dugdugilive.com:8080/0ne$ky23/Channel9/index.m3u8
-#EXTINF:-1 group-title="IPTV1", Deepto
-http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="IPTV1", Massranga
-http://tv.skynet.com.bd/hls/masranga.m3u8
-#EXTINF:-1 group-title="IPTV1", Nagorik
-http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/index.m3u8
-#EXTINF:-1 group-title="IPTV1", enterr10
-http://tv.skynet.com.bd/hls/enterr10.m3u8
-#EXTINF:-1 group-title="IPTV1", BanglaTV
-http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/index.m3u8
-#EXTINF:-1 group-title="IPTV1", JamunaTV
-http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/index.m3u8
-#EXTINF:-1 group-title="IPTV1", Channel24
-http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/index.m3u8
-#EXTINF:-1 group-title="IPTV1", News24
-http://appcdn.jagobd.com:1934/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 group-title="IPTV1", AtnBangla
-http://appcdn.jagobd.com:1934/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="IPTV1", Boishakhi
-http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/index.m3u8
-#EXTINF:-1 group-title="IPTV1", EkusheyTV
-http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/index.m3u8
-#EXTINF:-1 group-title="IPTV1", GaanBangla
-http://appcdn.jagobd.com:1934/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-1 group-title="IPTV1", Asian
-http://tv.dugdugilive.com:8080/0ne$ky23/Asian/index.m3u8
-#EXTINF:-1 group-title="IPTV1", AnandaTV
-http://tv.dugdugilive.com:8080/0ne$ky23/AnandaTV/index.m3u8
-#EXTINF:-1 group-title="IPTV1", DeshTV
-http://tv.dugdugilive.com:8080/0ne$ky23/DeshTV/index.m3u8
-#EXTINF:-1 group-title="IPTV1", mytv
-http://appcdn.jagobd.com:1934/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/live-orgin/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 group-title="IPTV1", Mohona
-http://appcdn.jagobd.com:1934/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 group-title="IPTV1", ATN music
-http://appcdn.jagobd.com:1934/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 group-title="IPTV1", jalshamovies
-http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/index.m3u8
-#EXTINF:-1 group-title="IPTV1", colors-bangla
-http://tv.skynet.com.bd/hls/colorsbangla.m3u8
-#EXTINF:-1 group-title="IPTV1", sangeetbangla
-http://tv.dugdugilive.com:8080/0ne$ky23/sangeetbangla/index.m3u8
-#EXTINF:-1 group-title="IPTV1", ZeeBnCinema
-http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBnCinema/index.m3u8
-#EXTINF:-1 group-title="IPTV1", Sony aat
-http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/index.m3u8
-#EXTINF:-1 group-title="IPTV1", DilSe
-http://tv.dugdugilive.com:8080/0ne$ky23/DilSe/index.m3u8
-#EXTINF:-1 group-title="IPTV1", Kodak
-http://tv.dugdugilive.com:8080/0ne$ky23/Kadak/index.m3u8
-#EXTINF:-1 group-title="IPTV1", B4U
-http://tv.dugdugilive.com:8080/0ne$ky23/B4U/index.m3u8
-#EXTINF:-1 group-title="Hindi", Zoom
-http://tv.dugdugilive.com:8080/0ne$ky23/Zoom/index.m3u8
-#EXTINF:-1 group-title="IPTV1", ZeeEtc
-http://tv.dugdugilive.com:8080/0ne$ky23/ZetcE24/index.m3u8
-#EXTINF:-1 group-title="IPTV1", MTVin
-http://tv.dugdugilive.com:8080/0ne$ky23/MTVin/index.m3u8
-#EXTINF:-1 group-title="IPTV1", 9xM
-http://tv.dugdugilive.com:8080/0ne$ky23/9xM/index.m3u8
-#EXTINF:-1 group-title="IPTV1", ZeeCinem
-http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/index.m3u8
-#EXTINF:-1 group-title="IPTV1", AndPictures
-http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/index.m3u8
-#EXTINF:-1 group-title="IPTV1", StarPlus
-http://tv.dugdugilive.com:8080/0ne$ky23/StarPlus/index.m3u8
-#EXTINF:-1 group-title="IPTV1", Colors
-http://tv.dugdugilive.com:8080/0ne$ky23/Colors/index.m3u8
-#EXTINF:-1 group-title="IPTV1", SonyTV
-http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/index.m3u8
-#EXTINF:-1 group-title="IPTV1", ZeeTV
-http://tv.dugdugilive.com:8080/0ne$ky23/ZeeTV/index.m3u8
-#EXTINF:-1 group-title="IPTV1", StarBharat
-http://tv.dugdugilive.com:8080/0ne$ky23/StarBharat/index.m3u8
-#EXTINF:-1 group-title="IPTV1", MTVin
-http://tv.dugdugilive.com:8080/0ne$ky23/MTVin/index.m3u8
-#EXTINF:-1 group-title="IPTV1", AndTV
-http://tv.dugdugilive.com:8080/0ne$ky23/AndTV/index.m3u8
-#EXTINF:-1 group-title="IPTV1", ZBolloyWoord
-http://tv.dugdugilive.com:8080/0ne$ky23/ZBolloyWoord/index.m3u8
-#EXTINF:-1 group-title="IPTV1", SonyMax
-http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/index.m3u8
-#EXTINF:-1 group-title="IPTV1", StarGold
-http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/index.m3u8
-#EXTINF:-1 group-title="IPTV1", CinePlex
-http://tv.dugdugilive.com:8080/0ne$ky23/CinePlex/index.m3u8
-#EXTINF:-1 group-title="IPTV1", B4Umovies
-http://tv.dugdugilive.com:8080/0ne$ky23/B4Umovies/index.m3u8
-#EXTINF:-1 group-title="IPTV1", bFlix
-http://tv.dugdugilive.com:8080/0ne$ky23/bFlix/index.m3u8
-#EXTINF:-1 group-title="IPTV1", 9xjalwa
-http://tv.dugdugilive.com:8080/0ne$ky23/9xjalwa/index.m3u8
-#EXTINF:-1 group-title="IPTV1", SonyPix
-http://tv.dugdugilive.com:8080/0ne$ky23/SonyPix/index.m3u8
-#EXTINF:-1 group-title="IPTV1", Discovery
-http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/index.m3u8
-#EXTINF:-1 group-title="IPTV1", StarMovies
-http://tv.dugdugilive.com:8080/0ne$ky23/StarMovies/index.m3u8
-#EXTINF:-1 group-title="IPTV1", AndFlix
-http://tv.dugdugilive.com:8080/0ne$ky23/AndFlix/index.m3u8
-#EXTINF:-1 group-title="IPTV1", AndPrive
-http://tv.dugdugilive.com:8080/0ne$ky23/AndPrive/index.m3u8
-#EXTINF:-1 group-title="IPTV1", POP
-http://tv.dugdugilive.com:8080/0ne$ky23/HBO/index.m3u8
-#EXTINF:-1 group-title="IPTV1", Nick
-http://tv.skynet.com.bd/hls/nick.m3u8
-#EXTINF:-1 group-title="IPTV1", bbcworld
-http://tv.skynet.com.bd/hls/bbcworld.m3u8
-#EXTINF:-1 group-title="IPTV1", aljajira
-http://tv.skynet.com.bd/hls/aljazeera.m3u8
-#EXTINF:-1 group-title="IPTV1", Madani
-http://tv.skynet.com.bd/hls/madani.m3u8
-#EXTINF:-1 group-title="IPTV1", Qurqntv
-http://tv.skynet.com.bd/hls/qurqntv.m3u8
+#EXTINF:-1 group-title="Bangla", Gaan Bangla
+http://172.31.0.2/hls/Gaan-Bangla.m3u8
+#EXTINF:-1 group-title="Bangla", Jamuna Tv
+http://172.31.0.2/hls/Jamuna-Tv.m3u8
+#EXTINF:-1 group-title="Bangla", Sun Bangla
+http://172.31.0.2/hls/Sun-Bangla.m3u8
+#EXTINF:-1 group-title="Bangla", Independent
+http://172.31.0.2/hls/Independent.m3u8
+#EXTINF:-1 group-title="Bangla", Sony Aath
+http://172.31.0.2/hls/Sony-Aath.m3u8
+#EXTINF:-1 group-title="Bangla", Gazi TV
+http://172.31.0.2/hls/Gazi-TV.m3u8
+#EXTINF:-1 group-title="Bangla", Ekattor HD
+http://172.31.0.2/hls/Ekattor-HD.m3u8
+#EXTINF:-1 group-title="Bangla",Channel I
+http://172.31.0.2/hls/Channel-I.m3u8
+#EXTINF:-1 group-title="Bangla", Somoy Tv
+http://172.31.0.2/hls/Somoy-Tv.m3u8
+#EXTINF:-1 group-title="Bangla", Zee Bangla Cinema
+http://172.31.0.2/hls/Zee-Bangla-Cinema.m3u8
+#EXTINF:-1 group-title="Bangla", COLORS B CINEMA
+http://172.31.0.2/hls/COLORS-B-CINEMA.m3u8
+#EXTINF:-1 group-title="Bangla", STAR JALSHA MOVIES
+http://172.31.0.2/hls/STAR-JALSHA-MOVIES.m3u8
+#EXTINF:-1 group-title="Bangla", COLORS BANGLA
+http://172.31.0.2/hls/COLORS-BANGLA.m3u8
+#EXTINF:-1 group-title="Bangla", ZEE BANGLA HD
+http://172.31.0.2/hls/ZEE-BANGLA-HD.m3u8
+#EXTINF:-1 group-title="Bangla", STAR JALSHA
+http://172.31.0.2/hls/STAR-JALSHA.m3u8
+#EXTINF:-1 group-title="Bangla", Sangeet Banglaa
+http://172.31.0.2/hls/Sangeet-Banglaa.m3u8
+#EXTINF:-1 group-title="Bangla", Movie Bangla Tv
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 group-title="Bangla", ENTERR10
+http://172.31.0.2/hls/ENTERR10.m3u8
+#EXTINF:-1 group-title="Bangla", SPTV
+http://103.81.104.51/hls/sptv.m3u8
+#EXTINF:-1 group-title="Bangla", Sony Cinema
+http://172.31.0.2/hls/Sony-Cinema.m3u8
+#EXTINF:-1 group-title="Bangla", NAGORIK TV
+http://172.31.0.2/hls/NAGORIK-TV.m3u8
+#EXTINF:-1 group-title="Bangla", ATN Bangla
+http://172.31.0.2/hls/ATN-Bangla.m3u8
+#EXTINF:-1 group-title="Bangla", TaraTv
+http://103.145.48.150:90/laosat23/taratv/index.m3u8
+
+
+#EXTINF:-1 group-title="English", Star Select Hd
+http://172.31.0.2/hls/Star-Select-Hd.m3u8
+#EXTINF:-1 group-title="English", SONY PIX HD
+http://172.31.0.2/hls/SONY-PIX-HD.m3u8
+#EXTINF:-1 group-title="English", MOVIES NOW HD
+http://172.31.0.2/hls/MOVIES-NOW-HD.m3u8
+#EXTINF:-1 group-title="English", STAR MOVIES HD
+http://172.31.0.2/hls/STAR-MOVIES-HD.m3u8
+#EXTINF:-1 group-title="English", BBC Earth HD
+http://172.31.0.2/hls/BBC-Earth-HD.m3u8
+#EXTINF:-1 group-title="English", MN PLUS HD
+http://172.31.0.2/hls/MN-PLUS-HD.m3u8
+#EXTINF:-1 group-title="English", Animal Planent
+http://172.31.0.2/hls/Animal-Planent.m3u8
+#EXTINF:-1 group-title="English",Discovery HD 
+http://172.31.0.2/hls/Discovery-HD.m3u8
+#EXTINF:-1 group-title="English", National Geographi HD
+http://172.31.0.2/hls/National-Geographi-HD.m3u8
+#EXTINF:-1 group-title="English", TLC HD
+http://172.31.0.2/hls/TLC-HD.m3u8
+#EXTINF:-1 group-title="English", Wild HD
+http://172.31.0.2/hls/Wild-HD.m3u8
+#EXTINF:-1 group-title="English", And Prive HD
+http://172.31.0.2/hls/And-Prive-HD.m3u8
+#EXTINF:-1 group-title="English", And Flix Hd
+http://172.31.0.2/hls/And-Flix-Hd.m3u8
+#EXTINF:-1 group-title="English", Mnx HD
+http://172.31.0.2/hls/Mnx-HD.m3u8
+#EXTINF:-1 group-title="English", BBC NEWS
+http://172.31.0.2/hls/BBC-NEWS.m3u8
+#EXTINF:-1 group-title="English", Aljazeera English
+http://172.31.0.2/hls/Aljazeera-English.m3u8
+
+
+#EXTINF:-1 group-title="Hindi", BINDDAS
+http://172.31.0.2/hls/BINDDAS.m3u8
+#EXTINF:-1 group-title="Hindi", And pictures HD
+http://172.31.0.2/hls/And-pictures-HD.m3u8
+#EXTINF:-1 group-title="Hindi", Colors Hindi HD
+http://172.31.0.2/hls/Colors-Hindi-HD.m3u8
+#EXTINF:-1 group-title="Hindi", Zee Cinema HD
+http://172.31.0.2/hls/Zee-Cinema-HD.m3u8
+#EXTINF:-1 group-title="Hindi", Star Plus HD
+http://172.31.0.2/hls/Star-Plus-HD.m3u8
+#EXTINF:-1 group-title="Hindi", Colors Cineplex
+http://172.31.0.2/hls/Colors-Cineplex.m3u8
+#EXTINF:-1 group-title="Hindi", Sony Entertainment
+http://172.31.0.2/hls/Sony-Entertainment.m3u8
+#EXTINF:-1 group-title="Hindi", Sony Max HD
+http://172.31.0.2/hls/Sony-Max-HD.m3u8
+#EXTINF:-1 group-title="Hindi", Zee Tv
+http://172.31.0.2/hls/Zee-Tv.m3u8
+#EXTINF:-1 group-title="Hindi", STAR GOLD HD
+http://172.31.0.2/hls/STAR-GOLD-HD.m3u8
+#EXTINF:-1 group-title="Hindi", STAR GOLD SELECT HD
+http://172.31.0.2/hls/STAR-GOLD-SELECT-HD.m3u8
+#EXTINF:-1 group-title="Hindi", 9xm
+http://172.31.0.2/hls/9xm.m3u8
+#EXTINF:-1 group-title="Hindi", Masti
+http://172.31.0.2/hls/Masti.m3u8
+#EXTINF:-1 group-title="Hindi", STAR GOLD 2
+http://172.31.0.2/hls/STAR-GOLD-2.m3u8
+#EXTINF:-1 group-title="Hindi", Goldmines
+http://172.31.0.2/hls/Goldmines.m3u8
+
+
+#EXTINF:-1 group-title="Sports", FAST SPORTS HD
+http://172.31.0.2/hls/FAST-SPORTS-HD.m3u8
+#EXTINF:-1 group-title="Sports", STAR SPORTS 3
+http://172.31.0.2/hls/STAR-SPORTS-3.m3u8
+#EXTINF:-1 group-title="Sports", Select 1
+http://172.31.0.2/hls/Select-1.m3u8
+#EXTINF:-1 group-title="Sports", STAR SPORTS 1
+http://172.31.0.2/hls/STAR-SPORTS-1-HD.m3u8
+#EXTINF:-1 group-title="Sports", Star Sports 2 HD
+http://172.31.0.2/hls/Star-Sports-2-HD.m3u8
+#EXTINF:-1 group-title="Sports", SONY TEN 1
+http://172.31.0.2/hls/SONY-TEN-1.m3u8
+#EXTINF:-1 group-title="Sports", Sony Ten 3
+http://172.31.0.2/hls/Sony-Ten-3.m3u8
+#EXTINF:-1 group-title="Sports", Select 2
+http://172.31.0.2/hls/Select-2.m3u8
+#EXTINF:-1 group-title="Sports", Sony Ten 2
+http://172.31.0.2/hls/Sony-Ten-2.m3u8
+#EXTINF:-1 group-title="Sports", SONY TEN 5
+http://172.31.0.2/hls/SONY-TEN-5.m3u8
+#EXTINF:-1 group-title="Sports", PTV Sports
+http://172.31.0.2/hls/PTV-Sports.m3u8
+#EXTINF:-1 group-title="Sports", SPORTS 18 HD
+http://172.31.0.2/hls/SPORTS-18-HD.m3u8
+
+
+#EXTINF:-1 group-title="Cartoon", Sonic
+http://172.31.0.2/hls/Sonic.m3u8
+#EXTINF:-1 group-title="Cartoon", SONY YAY
+http://172.31.0.2/hls/SONY-YAY.m3u8
+#EXTINF:-1 group-title="Cartoon", NICK
+http://172.31.0.2/hls/NICK.m3u8
+#EXTINF:-1 group-title="Cartoon", Cartoon Network
+http://172.31.0.2/hls/Cartoon-Network.m3u8
+
+
+#EXTINF:-1 group-title="Islamic", Madani Tv
+http://172.31.0.2/hls/Madani-Tv.m3u8
+#EXTINF:-1 group-title="Islamic", Quraan Tv
+http://172.31.0.2/hls/Quraan-Tvv.m3u8
