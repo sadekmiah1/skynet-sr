@@ -46,6 +46,7 @@ http://172.31.0.2/hls/NAGORIK-TV.m3u8
 http://172.31.0.2/hls/ATN-Bangla.m3u8
 #EXTINF:-1 group-title="Bangla", TaraTv
 http://103.145.48.150:90/laosat23/taratv/index.m3u8
+
 #EXTINF:-1 group-title="Bangla", BTV World
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 
